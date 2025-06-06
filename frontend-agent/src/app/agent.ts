@@ -10,7 +10,7 @@ import { StdioClientTransport } from "@modelcontextprotocol/sdk/client/stdio.js"
 import readline from "readline/promises";
 import dotenv from "dotenv";
 
-let serverScriptPath = "/Users/dhruvsoni/Desktop/Text to Fireproof Client/backend-MCP_server/build/index.js"
+let serverScriptPath = "absolutepathto/Text to Fireproof Client/backend-MCP_server/build/index.js"
 
 dotenv.config();
 
